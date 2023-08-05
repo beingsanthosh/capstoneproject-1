@@ -1,0 +1,675 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(163, 156, 156);
+    height: 100vh;
+}
+header{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+
+}
+#a{
+    padding: 10px;
+    margin-left: 30px;
+    font-size: larger;
+}
+.b{
+    
+    background-image: url("images/african-american-woman-wearing-pink-sweater-holding-puppy.jpg");
+    background-size: cover;
+
+    height: 500px;
+    width: 100%;
+    /* background-image: url(images/download.jpg);
+    background-repeat: no-repeat;
+     */
+}
+#ad{
+    margin-left: 250px;
+    /* padding-top: 150px; */
+    margin-top: 100px;
+}
+#aq{
+   padding: 20px 0px 0px 40px;
+   font-size: 40px;
+   color: rgb(65, 65, 120);
+   font-weight: bolder;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.as #pp{
+    /* background-color: rgb(243, 81, 108,0.7); */
+    padding: 20px 10px;
+    margin-left: 230px;
+    display: block;
+    font-size: 20px;
+    color: rgb(40, 39, 39);
+}
+.c{
+    height: 470px;
+    width: 100%;
+    background-color: rgb(92, 92, 191);
+}
+#kk{
+    margin-left: 600px;
+    margin-top: 50px;
+
+}
+#kkk{
+    /* text-align: center; */
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-left: 300px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#apple{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 50px 20px 20px 200px;
+    font-weight: 800;
+    color: white;
+
+}
+#ban{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 40px 10px 250px;
+    font-weight: 300;
+    color: whitesmoke;
+}
+#sir{
+    text-decoration: none;
+    background-color: pink;
+    border: 1px solid pink;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-left: 550px;
+
+}
+.d{
+    background-color: pink ;
+    height: 580px;
+    width: 100%;
+}
+.d .e{
+    /* background-color: aqua; */
+    width: 100%;
+    height:330px ;
+    display: flex;
+    justify-content: space-between;
+}
+.d .e .left{
+    height: 270px;
+    width: 22%;
+    background-color:white;
+    margin: 40px 20px 40px 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+
+}
+.d .e .mid{
+    height: 270px;
+    width: 22%;
+    background-color:white;
+    margin: 40px 20px 40px 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+}
+.d .e .right{
+    height: 270px;
+    width: 22%;
+    background-color:white;
+    margin: 40px 100px 40px 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+}
+.d .f{
+    /* background-color: rgb(66, 137, 137); */
+    width: 100%;
+    height:300px ;
+    display: flex;
+    justify-content: space-between;
+}
+.d .f .left{
+    height: 200px;
+    width: 22%;
+    background-color:white;
+    margin: 20px 20px 40px 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+
+}
+.d .f .mid{
+    height: 200px;
+    width: 22%;
+    background-color:white;
+    margin: 20px 20px 40px 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+}
+.d .f .right{
+    height: 200px;
+    width: 22%;
+    background-color:white;
+    margin: 20px 100px 40px 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+}
+.d .e .left #mm{
+    color: rgb(109, 100, 100);
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.d .e .mid #mm{
+    color: rgb(109, 100, 100);
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.d .e .right #mm{
+    color: rgb(109, 100, 100);
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.d .e .left #qw{
+    text-align: center;
+    word-spacing: 3px;
+    padding: 20px;
+
+}
+.d .e .mid #qw{
+    text-align: center;
+    word-spacing: 3px;
+    padding: 20px;
+
+}
+.d .e .right #qw{
+    text-align: center;
+    word-spacing: 3px;
+    padding: 20px;
+
+}
+.d .e .left #ll{
+    background-color:white;
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    color: rgb(105, 94, 94);
+}
+.d .e .mid #ll{
+    background-color:white;
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    color: rgb(105, 94, 94);
+}
+.d .e .right #ll{
+    background-color:white;
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    color: rgb(105, 94, 94);
+}
+.d .f .left #mm{
+    color: rgb(109, 100, 100);
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.d .f .mid #mm{
+    color: rgb(109, 100, 100);
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.d .f .right #mm{
+    color: rgb(109, 100, 100);
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.d .f .left #qw{
+    text-align: center;
+    word-spacing: 3px;
+    padding: 20px;
+
+}
+.d .f .mid #qw{
+    text-align: center;
+    word-spacing: 3px;
+    padding: 20px;
+
+}
+.d .f .right #qw{
+    text-align: center;
+    word-spacing: 3px;
+    padding: 20px;
+
+}
+.d .f .left #ll{
+    margin-left: 110px;
+    color:rgb(108, 103, 103);
+    margin-bottom: 50px;
+}
+.d .f .mid #ll{
+    margin-left: 110px;
+    color:rgb(108, 103, 103);
+    margin-bottom: 50px;
+}
+.d .f .right #ll{
+    margin-left: 110px;
+    color:rgb(108, 103, 103);
+    margin-bottom: 50px;
+}
+.x{
+    background-color:pink;
+    height: 600px;
+    width: 100%;
+}
+.x .y{
+    width: 35%;
+    height: 500px;
+    background-color: bisque;
+    float: left;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.x .y #sss{
+    width: 100%;
+    height: 100%;
+}
+.x .z{
+    width: 50%;
+    height: 450px;
+    /* background-color: bisque; */
+    background-color: pink;
+    float: left;
+    margin-left: 90px;
+    margin-top: 70px;
+}
+.x .z .ee{
+    height: 50%;
+    width: 100%;
+    /* background-color: black; */
+    background-color:pink;
+
+}
+.x .z .eee{
+    height: 100%;
+    width: 50%;
+    background-color:slateblue;
+    float: left;
+    border-radius: 30px;
+}
+.x .z .eeee{
+    height: 100%;
+    width: 50%;
+    /* background-color: rgb(163, 31, 31); */
+    background-color:pink;
+    float: right;
+
+}
+.x .z .ff{
+    height: 50%;
+    width: 100%;
+    /* background-color: rgb(203, 179, 179); */
+    background-color:pink;
+
+}
+.x .z .fff{
+    height: 100%;
+    width: 50%;
+    background-color:pink;
+    float: left;
+    /* border-radius: 30px; */
+}
+.x .z .ffff{
+    height: 100%;
+    width: 50%;
+    background-color:slateblue;
+    float: right;
+    border-radius: 30px;
+
+}
+.x .z .ee .eee #ls{
+    font-size: 20px;
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+}
+.x .z .ee .eee #la{
+    font-size: 20px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+    padding: 20px;
+}
+.x .z .ee .eeee #ls{
+    font-size: 20px;
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+}
+.x .z .ee .eeee #la{
+    font-size: 20px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+    padding: 20px;
+}
+.x .z .ff .fff #ls{
+    font-size: 20px;
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+}
+.x .z .ff .fff #la{
+    font-size: 20px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+    padding: 20px;
+}
+.x .z .ff .ffff #ls{
+    font-size: 20px;
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+}
+.x .z .ff .ffff #la{
+    font-size: 20px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+    padding: 20px;
+}
+#fafa{
+    color: aliceblue;
+    margin-left: 120px;
+}
+#faf{
+    color: rgb(24, 23, 23);
+    margin-left: 120px;
+}
+.container{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(63, 63, 132);
+}
+#lll{
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    padding: 30px;
+    padding-bottom: 0px;
+    word-spacing: 4px;
+    margin-left: 70px;
+}
+#llll{
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    padding: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    word-spacing: 4px;
+    margin-left: 70px;
+    
+}
+.container .lap{
+    height: 400px;
+    margin-top: 40px;
+    width: 100%;
+    /* border: 2px solid black; */
+    display: flex;
+    /* border-radius: 50p; */
+}
+.container .lap .oo{
+    float: left;
+    height: 300px;
+    width: 30%;
+    padding: 50px;
+    /* border: 2px solid black; */
+    border-radius: 200px;
+    background-image: url(images/woman-embracing-her-cute-dog.jpg);
+    background-size: 100% 120%;
+}
+.container .lap .wp{
+    float: right;
+    height: 300px;
+    width: 70%;
+    /* border: 2px solid black; */
+    
+}
+#pq{
+    padding: 60px 0px 20px 60px;
+}
+#as
+{
+    margin-left: 70px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 500;
+    text-align: justify;
+    margin-right: 40px;
+}
+.mahi{
+    height: 80vh;
+    width: 99vw;
+    background-color: red;
+}
+.mahi .cards-container{
+    position: relative;
+    height: 100%;
+    background-color:rgb(63, 63, 132);
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 30px 50px;
+
+}
+.mahi .cards-container .card1{
+    height: 96%;
+    width: 98%;
+    /* background-color: green; */
+    background-image: url(images/dressed-french-bulldog-with-joyful-female-owner-woman-grey-sweater-sitting-desk-pointing-index-finger-paying-attention-something-curious-positive-human-emotions-facial-expression.jpg);
+    background-size: 100% 120%;
+    border-radius: 30px;
+}
+.mahi .cards-container .card2{
+    height: 96%;
+    width: 98%;
+    /* background-color: green; */
+    background-image: url(images/woman-embracing-her-cute-dog.jpg);
+    background-size: 100% 120%;
+    border-radius: 30px;
+}
+.mahi .cards-container .card3{
+    height: 96%;
+    width: 98%;
+    /* background-color: green; */
+    background-image: url(images/fashion-young-woman-posing-with-dog\ \(1\).jpg);
+    background-size: 100% 120%;
+    border-radius: 30px;
+}
+.mahi .cards-container .card4{
+    height: 96%;
+    width: 98%;
+    /* background-color: green; */
+    background-image: url(images/wonderful-european-female-model-chilling-with-puppy-indoor-portrait-debonair-girl-enjoying-portraitshoot-with-her-cute-pet.jpg);
+    background-size: 100% 120%;
+    border-radius: 30px;
+}
+.mahi .topu{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    background-color: rgba(249, 240, 240, 0.9);
+    border-radius: 20px;
+    padding: 50px;
+    text-align: justify;
+}
+.guna{
+    line-height: 30px;
+    background-color: rgb(63, 63, 132);
+    height: 700px;
+    width: 100%;
+}
+.guna > h1{
+    width: 36%;
+    text-align: start
+}
+.guna p{
+    margin-bottom: 40px;
+}
+.ug{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+}
+.k1{
+    margin-top: 200px;
+    position: relative;
+    width: 60%;
+    height: 240px;
+    background-color: white;
+    display: flex;
+    padding: 0px 40px 60px 0px;
+}
+.f1{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 45%;
+    margin-left: 60px;
+}
+.f2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 45%;
+}
+.amm{
+    width: 200px;
+    height: 200px;
+    /* background-color: pink; */
+    background-image: url("images/fashion-young-woman-posing-with-dog\ \(1\).jpg");
+    background-size: 100% 120%;
+    border-radius: 40px;
+}
+.an{
+    background-image: url(images/wonderful-european-female-model-chilling-with-puppy-indoor-portrait-debonair-girl-enjoying-portraitshoot-with-her-cute-pet.jpg);
+}
+.thambi{
+    background-color: white;
+    height: 600px;
+    width: 100%;
+    align-items: center;
+}
+.thambi .six{
+    height:300px ;
+    width: 50%;
+    background-color: white;
+    /* padding: 100px; */
+    /* margin-top: 50px; */
+    /* padding-top: 50px; */
+    background-image: url(images/young-lady-pointing-down-t-shirt-skirt-looking-focused-front-view_176474-15219.avif);
+    background-size: 100% 100%;
+    margin-left: 280px;
+    border-radius: 20px;
+}
+.thambi .seven{
+    height:280px ;
+    width: 50%;
+    background-color: pink;
+    /* padding: 100px; */
+    /* margin-top: 50px; */
+    /* padding-top: 50px; */
+    /* background-image: url(images/young-lady-pointing-down-t-shirt-skirt-looking-focused-front-view_176474-15219.avif); */
+    background-size: 100% 100%;
+    margin-left: 280px;
+    border-radius: 20px;
+}
+#vv{
+    padding: 10px 20px;
+    margin-left: 190px;
+    border-radius: 30px;
+    border: none;
+}
+#zz{
+    border: none;
+    background-color: rgb(63, 63, 132);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 30px;
+}
+.es{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(63, 63, 132);
+    display: flex;
+    align-items: center;
+}
+.es .rrr{
+    height: 150px;
+    width: 33%;
+    /* border: 2px solid white; */
+    float: left;
+}
+.es .ddd{
+    height: 150px;
+    width: 33%;
+    /* border: 2px solid white; */
+    float: left;
+
+}
+.es .ttt{
+    height: 150px;
+    width: 34%;
+    /* border: 2px solid white; */
+    float: right;
+
+}
+.es .rrr>h4{
+    padding: 40px 0px 10px 40px;
+    font-size: 22px;
+    color: white;
+    /* margin-left: 40px; */
+    
+}
+.es .rrr>span{
+    margin-left: 40px;
+}
+.es .ddd>h4{
+    padding: 40px 0px 10px 40px;
+    font-size: 22px;
+    color: white;
+    /* margin-left: 40px; */
+    
+}
+.es .ddd>span{
+    margin-left: 40px;
+}
+.es .ttt>h4{
+    padding: 40px 0px 10px 40px;
+    font-size: 22px;
+    color: white;
+    /* margin-left: 40px; */
+
+}
+.es .ttt>span{
+    margin-left: 40px;
+}
